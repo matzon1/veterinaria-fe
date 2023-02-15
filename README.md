@@ -1,5 +1,5 @@
 # Notas de la situacion de la APP:
--LOGIN no terminado, simplemente apretando el botón de inicio te redirige al inicio de la APP
+-LOGIN no terminado, simplemente apretando el botón de inicio te redirige al inicio de la APP\
 -En el inicio se encuentra una barra de navegación temporal para poder cambiar de Usuario a Administrador y poder visualizar todas las vistas
 
 
