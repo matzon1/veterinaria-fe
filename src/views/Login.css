@@ -1,0 +1,21 @@
+
+.container-login {
+    border: 1px solid rgb(196, 196, 196);
+    border-radius: 5px;
+    padding-left: 0 !important;
+} 
+
+
+.form-login {
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.title-login {
+    background-color: #563d7c;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1%;
+}
